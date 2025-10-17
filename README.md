@@ -1,2 +1,2 @@
 # nba-betting-analytics
-Analyzing NBA scores and Vegas odds to evaluate betting accuracy and uncover ethical insights.
+Uncovering market inefficiency in NBA data and Vegas odds.
